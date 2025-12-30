@@ -14,5 +14,5 @@ Web-application for task management
 ## Author
 Michael m1keeeD
 
-## Лицензия
+## License
 MIT License
